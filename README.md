@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Ada code related to array processing and exception handling. The bug involves an implicit assumption about array indexing and a poorly designed exception handler that masks more specific error conditions.  The solution improves error handling and clarifies array access. 
